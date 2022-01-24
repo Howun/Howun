@@ -34,3 +34,6 @@
 <p><a href="https://www.instagram.com/howunlam/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="https://www.instagram.com/howunlam/">
 </a></p>
+<p><a href="howunlam96@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="howunlam96@gmail.com">
+</a></p>
