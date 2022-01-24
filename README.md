@@ -1,9 +1,15 @@
-### Hi there 👋
+### Hey there 👋
 
-<!--
-**howun/howun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Howun, a junior full stack developer with a tech stack of:
 
-Here are some ideas to get you started:
+- JavaScript
+- CSS/SCSS
+- Semantic HTML
+- React
+- Java
+- MySQL
+- GCP
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +19,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
