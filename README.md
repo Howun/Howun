@@ -26,8 +26,7 @@
 - Photography 📸
 - Piano 🎹
 
-Find me on <a src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/ho-wun-lam-17798215b/"/>
-
+Find me on 
 
 <p><a href="https://www.linkedin.com/in/ho-wun-lam-17798215b/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/ho-wun-lam-17798215b/">
