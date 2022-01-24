@@ -19,3 +19,8 @@ Here's come of my projects to check out:
 - [Morse Code Porject](https://github.com/howun/morsecode) 🆘
 
 
+Some of my hobbies outside of work:
+- Climbing 🧗‍♂️
+- Gaming 🕹️
+- Photography 📸
+- Piano 🎹
