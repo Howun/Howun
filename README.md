@@ -1,4 +1,4 @@
-<header>Hey there 👋<header>
+#Hey there 👋
 <h2>I'm Howun, a junior full stack developer with a tech stack of:</h2>
 
 - JavaScript
