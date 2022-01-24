@@ -18,7 +18,7 @@
 - [Morse Code Porject](https://github.com/howun/morsecode) 🆘
 
 
-<h3>Some of my hobbies outside of work:</h3>
+<h2>Some of my hobbies outside of work:</h2>
 - Climbing 🧗‍♂️
 - Gaming 🕹️
 - Photography 📸
