@@ -1,5 +1,5 @@
 # Hey there 👋
-<h2>I'm Howun, a junior full stack developer with a tech stack of:</h2>
+## I'm Howun, a junior full stack developer with a tech stack of:
 
 - JavaScript
 - CSS/SCSS
@@ -9,7 +9,7 @@
 - MySQL
 - GCP
 
-<h2>Here's come of my projects to check out:</h2>
+## Here's come of my projects to check out:
 
 - [Calculator Project](https://github.com/howun/Calculator-Project) 🖩
 - [Punk API Project](https://github.com/howun/punk-api) 🍺
@@ -18,7 +18,7 @@
 - [Morse Code Porject](https://github.com/howun/morsecode) 🆘
 
 
-<h2>Some of my hobbies outside of work:</h2>
+## Some of my hobbies outside of work:
   
 - Climbing 🧗‍♂️
 - Gaming 🕹️
