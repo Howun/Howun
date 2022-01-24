@@ -19,6 +19,7 @@
 
 
 <h2>Some of my hobbies outside of work:</h2>
+  
 - Climbing 🧗‍♂️
 - Gaming 🕹️
 - Photography 📸
