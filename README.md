@@ -1,13 +1,14 @@
 # Hey there 👋
-## I'm Howun, a junior full stack developer with a tech stack of:
+## I'm Howun, a junior full stack developer with a tech stack & tools of:
 
 - JavaScript
 - CSS/SCSS
-- Semantic HTML
+- Semantic HTML <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/html-5.svg">
 - React
 - Java
 - MySQL
 - GCP
+- Figma
 
 ## Here's come of my projects to check out:
 
@@ -24,3 +25,4 @@
 - Gaming 🕹️
 - Photography 📸
 - Piano 🎹
+
