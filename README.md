@@ -9,7 +9,7 @@
 - MySQL
 - GCP
 
-Here's come of my projects to check out:
+<h2>Here's come of my projects to check out:</h2>
 
 - [Calculator Project](https://github.com/howun/Calculator-Project) 🖩
 - [Punk API Project](https://github.com/howun/punk-api) 🍺
@@ -18,7 +18,7 @@ Here's come of my projects to check out:
 - [Morse Code Porject](https://github.com/howun/morsecode) 🆘
 
 
-Some of my hobbies outside of work:
+<h3>Some of my hobbies outside of work:</h3>
 - Climbing 🧗‍♂️
 - Gaming 🕹️
 - Photography 📸
