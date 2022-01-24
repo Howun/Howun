@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-I'm Howun, a junior full stack developer with a tech stack of:
+<h1>I'm Howun, a junior full stack developer with a tech stack of:</h1>
 
 - JavaScript
 - CSS/SCSS
